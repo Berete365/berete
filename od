@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prueba - Seguro On Demand para deportistas en bicicleta</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+        }
+        .hero {
+            padding: 50px;
+            text-align: center;
+            background-color: #e9ecef;
+        }
+        .benefits {
+            padding: 50px;
+            text-align: center;
+        }
+        .cta {
+            padding: 50px;
+            text-align: center;
+            background-color: #e9ecef;
+        }
+        .footer {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Prueba</h1>
+        <p>Seguro On Demand para deportistas en bicicleta</p>
+    </div>
+    
+    <div class="hero">
+        <h2>Protección y asistencia en cada ruta que hagas</h2>
+        <p>Con nuestro seguro a demanda, tienes la tranquilidad de estar cubierto durante tus aventuras en bicicleta.</p>
+        <button onclick="alert('¡Gracias! Nos pondremos en contacto contigo pronto.')">Te Llamamos</button>
+    </div>
+    
+    <div class="benefits">
+        <h2>Beneficios</h2>
+        <p>Disponer de ayuda y asistencia en cada ruta que hagas. No te preocupes, estás cubierto con Prueba.</p>
+    </div>
+    
+    <div class="cta">
+        <h2>¿Listo para empezar?</h2>
+        <button onclick="alert('¡Gracias! Nos pondremos en contacto contigo pronto.')">Te Llamamos</button>
+    </div>
+    
+    <div class="footer">
+        <p>© 2023 Prueba. Todos los derechos reservados.</p>
+    </div>
+</body>
+</html>
